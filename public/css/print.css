@@ -1,0 +1,23 @@
+.print-content table{
+    border:medium solid;
+}
+.print-content table th,td{
+    border:thin solid;
+    text-align: center;
+}
+
+.print-content table th {
+    background-color: #E0E0E0 !important;
+}
+
+.print-content table thead{
+    background: lightgrey;
+}
+.print-content{
+    class: col s11;
+    margin-left: -76%;
+    margin-top: -10%;
+}
+.maTable thead tr{
+    background: lightgray;
+}
