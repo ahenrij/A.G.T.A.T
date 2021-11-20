@@ -43,4 +43,4 @@ docker-compose exec app key:generate
 docker-compose exec app php artisan migrate:refresh --seed
 ```
 
-[Digramme de classes](https://drive.google.com/file/d/1h9uP7Y92HlJ8ArP-ZNLSNp2p9Wyoshvk/view?usp=sharing) de l'AGTAT
+AGTAT's [Classes Diagram](https://drive.google.com/file/d/1h9uP7Y92HlJ8ArP-ZNLSNp2p9Wyoshvk/view?usp=sharing)
