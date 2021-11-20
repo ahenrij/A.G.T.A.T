@@ -20,7 +20,7 @@ class GroupeTableSeeder extends Seeder
             'updated_at' => date('Y-m-d H:i:s')
         ]);
 
-        for ($i = 1; $i < 5; ++$i) {
+        for ($i = 1; $i < 11; ++$i) {
             $date = $this->randDate();
             DB::table('groupes')->insert([
                 'libelle' => 'Groupe ' . $i,
