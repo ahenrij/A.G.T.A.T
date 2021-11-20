@@ -42,7 +42,7 @@ Run docker compose stack
 docker-compose up -d
 ```
 
-Generate application key and data
+Generate application key and migrate data
 ```bash
 docker-compose exec app key:generate
 docker-compose exec app php artisan migrate:refresh --seed
