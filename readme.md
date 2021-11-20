@@ -9,7 +9,7 @@ Cependant l'accès au données (comme la recherche d'un profil existant par exem
 Les contraintes d'intégrité des données ne sont pas respectées et plusieurs (mêmes) tâches élémentaires sont à réaliser plusieurs fois dans le cycle de vie d'application (comme l'enregistrement des informations d'un usager) par le personnel utilisateur du système au Port de Cotonou.  
 Les mises à jour de l'application se font en installation "dure" sur chaque poste, et d'autres problèmes encore.  
 
-Cette application web vient moderniser l'existant et offrir une application qui tient mieux compte des exigences existantes.
+Cette application web vient moderniser l'existant et offrir une plateforme qui tient mieux compte des exigences existantes.
 
 AGTAT's [Classes Diagram](https://drive.google.com/file/d/1h9uP7Y92HlJ8ArP-ZNLSNp2p9Wyoshvk/view?usp=sharing)
 
